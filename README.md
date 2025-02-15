@@ -1,8 +1,5 @@
 # Influencer-impact-POC
 Scrap CA from influencer tweets and ascertain how much impact they have on price. 
-
-Below is an example of a comprehensive GitHub README for your project:
-
 ---
 
 # CA & Price Impact Tracker
