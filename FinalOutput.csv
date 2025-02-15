@@ -1,0 +1,4 @@
+influencer,tweet_id,timestamp,contract_address,initial_price,price_5min,pc_change_5min,price_10min,pc_change_10min,price_15min,pc_change_15min,tweet_content
+@0xSonOfUri,1890784651385373010,2025-02-15T15:26:04+00:00,EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v,0.999994,0.999994,0.0,0.999994,0.0,0.999994,0.0,This is a test. Kindly Ignore: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v
+@0xSonOfUri,1890784584146559206,2025-02-15T15:25:48+00:00,So11111111111111111111111111111111111111112,194.39,194.39,0.0,194.39,0.0,194.39,0.0,This is a test. Kindly Ignore: So11111111111111111111111111111111111111112
+@0xSonOfUri,1890784540471247309,2025-02-15T15:25:38+00:00,JUPyiwrYJFskUPiHa7hkeR8VUtAeFoSYbKedZNsDvCN,0.922492,0.922492,0.0,0.922492,0.0,0.922492,0.0,This is a test. Kindly Ignore: JUPyiwrYJFskUPiHa7hkeR8VUtAeFoSYbKedZNsDvCN

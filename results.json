@@ -1,0 +1,44 @@
+[
+    {
+        "influencer": "@0xSonOfUri",
+        "tweet_id": "1890784651385373010",
+        "timestamp": "2025-02-15T15:26:04+00:00",
+        "contract_address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+        "initial_price": 0.999994,
+        "price_5min": 0.999994,
+        "pc_change_5min": 0.0,
+        "price_10min": 0.999994,
+        "pc_change_10min": 0.0,
+        "price_15min": 0.999994,
+        "pc_change_15min": 0.0,
+        "tweet_content": "This is a test. Kindly Ignore: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+    },
+    {
+        "influencer": "@0xSonOfUri",
+        "tweet_id": "1890784584146559206",
+        "timestamp": "2025-02-15T15:25:48+00:00",
+        "contract_address": "So11111111111111111111111111111111111111112",
+        "initial_price": 194.39,
+        "price_5min": 194.39,
+        "pc_change_5min": 0.0,
+        "price_10min": 194.39,
+        "pc_change_10min": 0.0,
+        "price_15min": 194.39,
+        "pc_change_15min": 0.0,
+        "tweet_content": "This is a test. Kindly Ignore: So11111111111111111111111111111111111111112"
+    },
+    {
+        "influencer": "@0xSonOfUri",
+        "tweet_id": "1890784540471247309",
+        "timestamp": "2025-02-15T15:25:38+00:00",
+        "contract_address": "JUPyiwrYJFskUPiHa7hkeR8VUtAeFoSYbKedZNsDvCN",
+        "initial_price": 0.922492,
+        "price_5min": 0.922492,
+        "pc_change_5min": 0.0,
+        "price_10min": 0.922492,
+        "pc_change_10min": 0.0,
+        "price_15min": 0.922492,
+        "pc_change_15min": 0.0,
+        "tweet_content": "This is a test. Kindly Ignore: JUPyiwrYJFskUPiHa7hkeR8VUtAeFoSYbKedZNsDvCN"
+    }
+]
