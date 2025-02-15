@@ -60,7 +60,7 @@ This project can be used to analyze how tweets containing token contract address
 1. **Clone the Repository:**
 
    ```bash
-   git clone 
+   git clone https://github.com/fehyee/Influencer-impact-POC
    ```
 
 2. **Create a Virtual Environment and Activate It:**
